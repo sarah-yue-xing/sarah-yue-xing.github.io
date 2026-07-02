@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## Career
+
 
 This section documents my professional development, career reflections, and learning notes as I continue growing in clinical and regulatory affairs.
 
