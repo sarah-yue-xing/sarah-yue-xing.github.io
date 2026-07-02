@@ -124,7 +124,6 @@ author:
   bio              : "Clinical affairs professional focused on IVD clinical validation, diagnostic study design, and clinical evidence generation."
   location         : "San Diego, CA"
 
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -134,7 +133,7 @@ author:
       url: "https://www.linkedin.com/in/xingyue0717/"   
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "xingyue0717@gmail.com"
+      url: "mailto:xingyue0717@gmail.com"
 
 
 # Site Footer
