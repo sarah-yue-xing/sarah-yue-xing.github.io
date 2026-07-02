@@ -1,6 +1,7 @@
 ---
 title: "Why I Started Writing About IVD Clinical Evidence"
 date: 2026-07-02
+permalink: /insights/why-i-started-writing-about-ivd-clinical-evidence/
 categories:
   - Insights
 tags:
