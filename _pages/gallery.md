@@ -51,6 +51,7 @@ Outside of work, I enjoy discovering new places, dancing ballet, spending time w
 
 
 
+
 <div class="gallery-grid">
 
   <div class="gallery-card">
