@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## About
+
 
 My career has not followed a straight line, but it has followed a consistent theme: using scientific thinking to solve real-world problems.
 
