@@ -45,28 +45,28 @@ Outside of work, I enjoy discovering new places, dancing ballet, spending time w
 <div class="gallery-grid">
 
   <div class="gallery-card">
-    <img src="/assets/images/gallery/conference-1.jpg" alt="Conference">
+    <img src="/assets/images/conference-1.jpg" alt="Conference">
     <div class="gallery-caption">
       A day at CES 2026 in Las Vegas
     </div>
   </div>
 
   <div class="gallery-card">
-    <img src="/assets/images/gallery/ballet-1.jpg.JPG" alt="Ballet">
+    <img src="/assets/images/ballet-1.jpg.JPG" alt="Ballet">
     <div class="gallery-caption">
       Dance like I've never danced before.
     </div>
   </div>
 
   <div class="gallery-card">
-    <img src="/assets/images/gallery/life-1.JPG" alt="Big Island">
+    <img src="/assets/images/life-1.JPG" alt="Big Island">
     <div class="gallery-caption">
       A day on the Big Island.
     </div>
   </div>
 
   <div class="gallery-card">
-    <img src="/assets/images/gallery/momo-1.jpg" alt="Momo">
+    <img src="/assets/images/momo-1.jpg" alt="Momo">
     <div class="gallery-caption">
       Hide-and-seek with Momo.
     </div>
