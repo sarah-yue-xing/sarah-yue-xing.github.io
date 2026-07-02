@@ -5,7 +5,9 @@ layout: single
 author_profile: true
 ---
 
+## Posts
 
+- [Why I Started Writing About IVD Clinical Evidence](/2026/07/02/why-i-started-writing-about-ivd-clinical-evidence/)
 
 This section collects my notes and reflections on IVD clinical studies, diagnostic evidence generation, regulatory trends, and selected case studies from the diagnostics field.
 
