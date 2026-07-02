@@ -126,24 +126,16 @@ author:
 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "xingyue0717@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sarah-yue-xing.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/xingyue0717/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/sarah-yue-xing"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/xingyue0717/"   
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "xingyue0717@gmail.com"
+
 
 # Site Footer
 footer:
