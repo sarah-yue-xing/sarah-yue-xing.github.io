@@ -128,7 +128,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "xingyue0717@gmail.com"
+      # url: "xingyue0717@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sarah-yue-xing.github.io/"
