@@ -88,6 +88,11 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+#Add pages
+include:
+  - _pages
+
+
 # Social Sharing
 twitter:
   username               :
