@@ -52,7 +52,7 @@ Outside of work, I enjoy discovering new places, dancing ballet, spending time w
   </div>
 
   <div class="gallery-card">
-    <img src="/assets/images/gallery/ballet-01.jpg" alt="Ballet">
+    <img src="/assets/images/gallery/ballet-1.jpg.JPG" alt="Ballet">
     <div class="gallery-caption">
       Dance like I've never danced before.
     </div>
