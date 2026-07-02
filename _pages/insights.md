@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## Insights
+
 
 This section collects my notes and reflections on IVD clinical studies, diagnostic evidence generation, regulatory trends, and selected case studies from the diagnostics field.
 
