@@ -123,7 +123,7 @@ author:
   avatar           : "/assets/images/yue-profile.png"
   bio              : "Clinical affairs professional focused on IVD clinical validation, diagnostic study design, and clinical evidence generation."
   location         : "San Diego, CA"
-  # email            : "xingyue0717@gmail.com"
+
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
