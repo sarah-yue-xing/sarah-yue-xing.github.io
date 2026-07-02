@@ -1,0 +1,21 @@
+---
+title: "Insights"
+permalink: /insights/
+layout: single
+author_profile: true
+---
+
+## Insights
+
+This section collects my notes and reflections on IVD clinical studies, diagnostic evidence generation, regulatory trends, and selected case studies from the diagnostics field.
+
+Topics I plan to write about include:
+
+- IVD clinical validation study design
+- CLIA waiver study strategy
+- FDA submission and approval case studies
+- WHO prequalification and global diagnostic studies
+- Clinical evidence generation for point-of-care diagnostics
+- Industry trends in infectious disease, oncology, and molecular diagnostics
+
+This page is under construction.
