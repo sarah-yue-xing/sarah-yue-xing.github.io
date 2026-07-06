@@ -65,9 +65,7 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : true
+
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -139,22 +137,26 @@ author:
 # Site Footer
 footer:
   links:
-
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sarah-yue-xing.github.io/"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/xingyue0717/"   
+      url: "https://www.linkedin.com/in/xingyue0717/"
+
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:xingyue0717@gmail.com"
+
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=XYrqekEAAAAJ&hl=en"
 
+  since: "2026"
 
- since: "2026"
+atom_feed:
+  hide: true
 
 
 # Reading Files
