@@ -1,6 +1,7 @@
 ---
-title: "Practical considerations for selecting an EDC system for diagnostic clinical studies"
+title: "Practical Considerations for Selecting an EDC System for Diagnostic Clinical Studies"
 date: 2026-07-06
+permalink: /insights/edc-vendor-selection-for-ivd-clinical-study/
 categories:
   - Insights
 
