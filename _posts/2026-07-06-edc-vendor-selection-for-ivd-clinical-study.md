@@ -2,8 +2,10 @@
 title: "What I Learned from Evaluating EDC Vendors for a Small IVD Clinical Study"
 subtitle: "Practical considerations for selecting an EDC system for diagnostic clinical studies"
 date: 2026-07-06
-categories: [IVD Clinical Studies]
-tags: [EDC, IVD, clinical operations, clinical data management, diagnostic studies]
+categories:
+  - Insights
+
+tags: [EDC, Electronic Data Capture, IVD, clinical operations, clinical data management, diagnostic studies]
 ---
 
 ## Why EDC Selection Matters for IVD Clinical Studies
