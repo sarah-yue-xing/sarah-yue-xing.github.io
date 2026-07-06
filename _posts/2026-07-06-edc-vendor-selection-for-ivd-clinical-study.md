@@ -1,6 +1,5 @@
 ---
-title: "What I Learned from Evaluating EDC Vendors for a Small IVD Clinical Study"
-subtitle: "Practical considerations for selecting an EDC system for diagnostic clinical studies"
+title: "Practical considerations for selecting an EDC system for diagnostic clinical studies"
 date: 2026-07-06
 categories:
   - Insights
@@ -10,7 +9,7 @@ tags: [EDC, Electronic Data Capture, IVD, clinical operations, clinical data man
 
 ## Why EDC Selection Matters for IVD Clinical Studies
 
-In many clinical studies, the sponsor works with a CRO, and the CRO may already have preferred EDC vendors or internal processes. Because of that, EDC vendor selection may not always appear to be a major sponsor-side decision. However, when the sponsor team needs to compare vendors directly, the question becomes more practical: what type of EDC system is actually needed for an IVD clinical study?
+In many clinical studies, the sponsor works with a CRO, and the CRO may already have preferred EDC vendors or internal processes. Because of that, EDC vendor selection may not always appear to be a major sponsor-side decision. Recently, I had the opportunity to evaluate EDC vendors directly for a small IVD clinical study. This experience made me think more carefully about a practical question: what type of EDC system is actually needed for a diagnostic clinical study?
 
 An EDC system is not mandatory for every study. For early field evaluations, feasibility work, or small internal studies, a spreadsheet may be sufficient. But for a clinical study intended to support a regulatory submission, I see an EDC system as highly valuable, and often necessary, because the issue is not only convenience. The deeper issue is data integrity.
 
