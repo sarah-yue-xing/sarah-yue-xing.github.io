@@ -11,7 +11,7 @@ This section collects my notes and reflections on IVD clinical studies, diagnost
 ## Posts
 
 - [Why I Started Writing About IVD Clinical Evidence](/insights/why-i-started-writing-about-ivd-clinical-evidence/)
-
+- [Practical considerations for selecting an EDC system for diagnostic clinical studies](/insights/edc-vendor-selection-for-ivd-clinical-study/)
 
 Other topics I plan to write about include:
 
